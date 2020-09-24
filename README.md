@@ -4,7 +4,7 @@ I`m frontend-developer with 2 years experience.
 I currently aim to earn as much as I can in a work environment and to further my own abilities in professional settings.
 
 const gitHubAccount: string = “ https://github.com/AlexandrVinogradov “
-}
+**}**
 
 ### @Proggraming skills {
 
@@ -16,8 +16,8 @@ const gitHubAccount: string = “ https://github.com/AlexandrVinogradov “
 • Typescript  <br>
 • GIT         <br>
 • Pug         <br>
-• Webpack     <br>
-### }
+• Webpack     
+**}**
 
 ### @Style sheets skills {
 
@@ -27,8 +27,8 @@ const gitHubAccount: string = “ https://github.com/AlexandrVinogradov “
 • Flexbox              <br>
 • Adaptive layout      <br>
 • Cross-browser layout <br>
-• BEM methodology      <br>
-### }
+• BEM methodology      
+**}**
 
 ### @Additional libraries {
 
@@ -38,8 +38,8 @@ const gitHubAccount: string = “ https://github.com/AlexandrVinogradov “
 • Redux-thunk                                           <br>
 • Axios                                                 <br>
 • react-transition-group                                <br>
-• react-i18next                                         <br>
-### }
+• react-i18next                                         
+**}**
 
 ### @About me {
 
@@ -60,7 +60,7 @@ http://sova-dance.ru/ - a project completely developed by me on freelance 2019
 I can also show a lot of my work locally so as not to violate the NDA
 
 Looking for a position as a react.js developer position in a company that will become the second home. Where I will be able to grow quickly and develop skills in web development every day.
-### }
+**}**
 
 ### @Contacts {
 
@@ -69,7 +69,7 @@ LinkeIn: https://www.linkedin.com/in/ale-grapes/ <br>
 Phone: +7 (916) 367-21-44                        <br>
 Email: ale.grapes.webdev@gmail.com               <br>
 Telegram: @ale_grapes                            <br>
-### }
+**}**
 
 
 ### connect with me 👋
