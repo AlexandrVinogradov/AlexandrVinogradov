@@ -1,6 +1,4 @@
-### Hi there 👋
-
-### @Hi, guys {
+### @Hi, guys 👋 { 
 
 I`m frontend-developer with 2 years experience.
 I currently aim to earn as much as I can in a work environment and to further my own abilities in professional settings.
