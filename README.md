@@ -17,7 +17,7 @@ const gitHubAccount: string = “ https://github.com/AlexandrVinogradov “
 • GIT         <br>
 • Pug         <br>
 • Webpack     <br>
-}
+### }
 
 ### @Style sheets skills {
 
@@ -28,7 +28,7 @@ const gitHubAccount: string = “ https://github.com/AlexandrVinogradov “
 • Adaptive layout      <br>
 • Cross-browser layout <br>
 • BEM methodology      <br>
-}
+### }
 
 ### @Additional libraries {
 
@@ -39,7 +39,7 @@ const gitHubAccount: string = “ https://github.com/AlexandrVinogradov “
 • Axios                                                 <br>
 • react-transition-group                                <br>
 • react-i18next                                         <br>
-}
+### }
 
 ### @About me {
 
@@ -60,7 +60,7 @@ http://sova-dance.ru/ - a project completely developed by me on freelance 2019
 I can also show a lot of my work locally so as not to violate the NDA
 
 Looking for a position as a react.js developer position in a company that will become the second home. Where I will be able to grow quickly and develop skills in web development every day.
-}
+### }
 
 ### @Contacts {
 
@@ -69,7 +69,7 @@ LinkeIn: https://www.linkedin.com/in/ale-grapes/ <br>
 Phone: +7 (916) 367-21-44                        <br>
 Email: ale.grapes.webdev@gmail.com               <br>
 Telegram: @ale_grapes                            <br>
-}
+### }
 
 
 ### connect with me 👋
@@ -88,7 +88,3 @@ Telegram: @ale_grapes                            <br>
 <a href="https://t.me/ale_grapes">
   <img align="left" alt="Alexandr Vinogradov`s Telegram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-
-<br />
-
-
