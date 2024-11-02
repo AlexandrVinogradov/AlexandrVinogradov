@@ -56,17 +56,18 @@ Stack: React, TypeScript, GraphQL (Apollo), Redux Toolkit, and Twin.macro.
 
 Responsible for all key architectural decisions, feature planning, recruitment and onboarding of team members, conducting code reviews, and ensuring code quality.
 
-
+<br>
+<br>
 
 I also developed a completely finished Full-Stack SOE Project - online store for safes for my family.
 
 [Промметсейф](https://prommetsafe.ru/)
 
 Technology stack:
-Frontend: Next.js, TypeScript, REST, Tailwind CSS
-Backend: NestJS, PostgreSQL, TypeORM
-Admin Panel: React, TypeScript, Ant Design
-Infrastructure: Docker, Nginx
+Frontend: Next.js, TypeScript, REST, Tailwind CSS <br>
+Backend: NestJS, PostgreSQL, TypeORM              <br>
+Admin Panel: React, TypeScript, Ant Design        <br>
+Infrastructure: Docker, Nginx                     <br>
 **}**
 
 ### @Contacts {
