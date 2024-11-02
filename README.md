@@ -1,6 +1,6 @@
 ### @Hi, guys 👋 { 
 
-I`m frontend-developer with 2 years experience.
+I`m frontend-developer with 6 years experience.
 I currently aim to earn as much as I can in a work environment and to further my own abilities in professional settings.
 
 const gitHubAccount: string = “ https://github.com/AlexandrVinogradov “
@@ -43,23 +43,30 @@ const gitHubAccount: string = “ https://github.com/AlexandrVinogradov “
 
 ### @About me {
 
-At my last job in outsourcing company "NoLogoStudio" I was a lead frontend-developer on projects. Worked on various projects from a service for the sale of telecommunication cables to a platform for streaming surgical operations.
-Also I interviewed candidates for the position of frontend-developer.
+At my current place of work "Sberbank" I hold the position of Lead-Frontend developer.
+I Developed the Network Access System to replace Cisco ISE. The project included complex interfaces with numerous tables, forms, charts, and drag-and-drop functionality. The application ranked among the top 10 in security within the bank's internal systems.
 
-Mostly worked with the stack: React/Redux, scss, webpack, pug, native js
+Started the project from scratch when I joined the team as the sole Frontend developer. Throughout the process, I built a team of four, including developers of varying levels, to enhance development speed and maintain quality.
 
-Also I programmed UI and business logic, worked with rest-API, worked on complex animation, did cross-browser, adaptive layout.
+Developed the entire design from the ground up with the Frontend team, creating a custom UI Kit for component unification and accelerated development.
 
-Some links:
-http://spassword.online/ - react/redux, typescript open source project, code: https://github.com/AlexandrVinogradov/SPassword-React-Redux
+Successfully completed the MVP stage, building a scalable and reliable system that meets the bank's requirements.
 
-https://www.ruvek.ru/ - project where I was a frontend developer 2020 «NoLogoStudio»
-https://newhorizons.top/ - business card site with animation
-http://sova-dance.ru/ - a project completely developed by me on freelance 2019
+Stack: React, TypeScript, GraphQL (Apollo), Redux Toolkit, and Twin.macro.
 
-I can also show a lot of my work locally so as not to violate the NDA
+Responsible for all key architectural decisions, feature planning, recruitment and onboarding of team members, conducting code reviews, and ensuring code quality.
 
-Looking for a position as a react.js developer position in a company that will become the second home. Where I will be able to grow quickly and develop skills in web development every day.
+
+
+I also developed a completely finished Full-Stack SOE Project - online store for safes for my family.
+
+[Промметсейф](https://prommetsafe.ru/)
+
+Technology stack:
+Frontend: Next.js, TypeScript, REST, Tailwind CSS
+Backend: NestJS, PostgreSQL, TypeORM
+Admin Panel: React, TypeScript, Ant Design
+Infrastructure: Docker, Nginx
 **}**
 
 ### @Contacts {
