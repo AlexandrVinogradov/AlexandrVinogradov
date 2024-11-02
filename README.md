@@ -63,7 +63,7 @@ I also developed a completely finished Full-Stack SOE Project - online store for
 
 [Промметсейф](https://prommetsafe.ru/)
 
-Technology stack:
+Technology stack:                                 <br>
 Frontend: Next.js, TypeScript, REST, Tailwind CSS <br>
 Backend: NestJS, PostgreSQL, TypeORM              <br>
 Admin Panel: React, TypeScript, Ant Design        <br>
